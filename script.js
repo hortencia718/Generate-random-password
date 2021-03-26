@@ -1,5 +1,5 @@
 function myFunction() {
-
+    // create varible to hold random letters and numbers 
     let letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
     let password = "";
 
